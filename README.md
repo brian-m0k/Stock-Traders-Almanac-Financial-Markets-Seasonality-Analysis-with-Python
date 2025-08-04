@@ -1,3 +1,5 @@
 # Stock-Traders-Almanac-Financial-Markets-Seasonality-Analysis-with-Python
 A series of Jupyter notebooks exploring and verifying seasonal patterns in the financial markets; starting with those espoused by sources such as The Stock Trader's Almanac. Using Python libraries such as QuantLib, yfinance, Quandl, Mibian, and optlib, this project analyzes historical market behavior and conducts data-driven experiments. We may also include backtesting of trading strategies with tools like Backtrader, Pyfolio, Pyrisk and the QuantConnect platform. The goal is to evolve this into a comprehensive tutorial series for quantitative finance enthusiasts.
 
+# TEST 1
+
